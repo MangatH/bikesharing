@@ -23,9 +23,9 @@ Create a set of visualizations to:
 [link to dashboard](https://public.tableau.com/app/profile/harmandeep.kaur.mangat/viz/NYCCitibikesDashboard/Story1?publish=yes)
 
 ### Citibike user type:
-* The following pie-chart shows the types of customer of citibikes. The total number of citibike users are 2,344,224. The subscribers form the major part of users i.e. 1,900,359, in contrast to customers which are only 443,865.
+* The following pie-chart shows the types of user for citibikes. The total number of citibike users are 2,344,224. The subscribers form the major part of users i.e. 1,900,359, in contrast to customers which are only 443,865.
 
-<img width="917" alt="Screen Shot 2022-12-02 at 11 06 29 PM" src="https://user-images.githubusercontent.com/111387025/205431091-17df4272-8c91-403a-b409-59f6c85e1af8.png">
+<img width="932" alt="Screen Shot 2022-12-03 at 6 03 36 PM" src="https://user-images.githubusercontent.com/111387025/205441205-97421b27-a7bf-4ec1-810f-bf7f8694c058.png">
 
 ### Gender breakdown of citibike users:
 * As per the gender breakdown analysis for the citibike users. The number of male users are 1,530,272, female users are 588,431 whereas the unknown are 225,521.
