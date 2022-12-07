@@ -53,7 +53,7 @@ Create a set of visualizations to:
 <img width="1054" alt="Screen Shot 2022-12-02 at 11 05 17 PM" src="https://user-images.githubusercontent.com/111387025/205431864-1383d6b8-9285-4495-bb51-d54a9a09a2e8.png">
 
 ### Checkout Times for Users:
-* The data indicated that the bikes were checked out mostly between 10 to 50 minutues.
+* The data indicated that the bikes were checked out mostly between 5 to 50 minutues.
 
 <img width="1054" alt="Screen Shot 2022-12-02 at 11 01 35 PM" src="https://user-images.githubusercontent.com/111387025/205432111-8ba1b2f5-8c0c-4c03-8c74-4d3a8783bbaa.png">
 
